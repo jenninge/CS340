@@ -2,10 +2,10 @@
 Client/Server Development
 
 # Description
-This is a Python module to perform CRUD operations with MongoDB. This module can be used to create a dash application or can be used to connect to a SQL database with modifications.   
+This is a Python module to perform CRUD operations with MongoDB. This module can be used to navigate large data sets and can be used for other applications.
 
 # Getting Started
-1)	PyMongo: Library used to connect with MongoDB
+1)	PyMongo: A Python library used to connect with MongoDB
    
 [PyMongo]( https://pymongo.readthedocs.io/en/stable/tutorial.html)   
 
@@ -16,7 +16,13 @@ This is a Python module to perform CRUD operations with MongoDB. This module can
  
 3)	BSON: 12-byte type used for unique identification of objects in a collection.
    
-![image](https://github.com/user-attachments/assets/a5fb064e-8694-4451-b875-133c2b05d903)
+![image](https://github.com/user-attachments/assets/a5fb064e-8694-4451-b875-133c2b05d903)    
+
+4) Jupyter Notebooks: Used to create Python porgrams, test, and create dash applications.
+ [Jupyter Notebooks](https://jupyter.org/)
+5) Dash: A Python framework to create web applications.
+   [Dash Resources](https://dash.plotly.com)
+   
 
 
 [MongoDB Resources](https://www.mongodb.com/docs/manual/introduction/)   
