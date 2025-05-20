@@ -19,5 +19,5 @@ This is a Python module to perform CRUD operations with MongoDB. This module can
 ![image](https://github.com/user-attachments/assets/a5fb064e-8694-4451-b875-133c2b05d903)
 
 
-[MongoDB Resources](https://www.mongodb.com/docs/manual/introduction/)
-
+[MongoDB Resources](https://www.mongodb.com/docs/manual/introduction/)   
+[Python Resources](https://www.python.org/)
