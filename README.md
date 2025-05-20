@@ -1,16 +1,22 @@
 # CS340
 Client/Server Development
 
+# Description
+This is a Python module to perform CRUD operations with MongoDB. This module can be used to create a dash application or can be used to connect to a SQL database with modifications.   
 
-#	How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+# Getting Started
+1)	PyMongo: Library used to connect with MongoDB
+   
+[PyMongo]( https://pymongo.readthedocs.io/en/stable/tutorial.html)   
 
-  My CRUD module is readable because there are comments that explain what each method is supposed to do. The comments tell the reader what variables are input and what variables are output. It is maintainable because it can be used with different databases, or different programs. The module is adaptable because it can be modified for different users of the program and database. Working this way makes it easier to understand how the module worked with mongodb and the dash application. It also allows for easier debugging.
 
-#	How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?  
+2)	MongoClient: Used to connect to the host and port.
 
-  I have found that when a program is not working properly, I have to adjust one element at a time. This allows me to find the issue faster because I can delineate the parts that work or the parts that is causing the issue. This project I had to stop over-complicating things. It is better to use what I know works well rather than trying to recreate the wheel.
+ ![image](https://github.com/user-attachments/assets/c3fc50a6-52b2-4558-bdcc-2bcd7bc792ff)   
+ 
+3)	BSON: 12-byte type used for unique identification of objects in a collection.
+![image](https://github.com/user-attachments/assets/a5fb064e-8694-4451-b875-133c2b05d903)
 
-  #What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-  Computer scientists help make tasks quicker and easier. They can design programs, analyze data, and solve problems across many platforms. They matter because they help keep the world working and creating a better future. The work on this project would help Grazioso Salvare perform queries on their data faster, analyze data efficiently, and display data in an easy to understand model. 
-    
+[MongoDB Resources](https://www.mongodb.com/docs/manual/introduction/)
+
