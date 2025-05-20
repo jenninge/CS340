@@ -20,10 +20,16 @@ This is a Python module to perform CRUD operations with MongoDB. This module can
 
 4) Jupyter Notebooks: Used to create Python porgrams, test, and create dash applications.
  [Jupyter Notebooks](https://jupyter.org/)
-5) Dash: A Python framework to create web applications.
+
+6) Dash: A Python framework to create web applications.
    [Dash Resources](https://dash.plotly.com)
    
-
-
 [MongoDB Resources](https://www.mongodb.com/docs/manual/introduction/)   
-[Python Resources](https://www.python.org/)
+[Python Resources](https://www.python.org/)    
+
+# Results 
+![image](https://github.com/user-attachments/assets/c2c96f14-dfc2-4a55-a548-b9a95523f83c)   
+
+Data displayed after using Moutain or Wilderness Filter.   
+
+![image](https://github.com/user-attachments/assets/9b93fe3c-5581-44a1-a871-19f15b78a3c7)
